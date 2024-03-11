@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Define environment variables
-        SRN = 'PES2UG21CS119'
+        SRN = 'PES2UG21CS348'
         // Additional code for readability, to be used in further stages
     }
 
